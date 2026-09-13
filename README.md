@@ -39,9 +39,9 @@ pweb-html_css-a03-2026/
 
 | Nama | NRP | Pembagian Tugas |
 |---|---|---|
-| Muhammad Nadhif Pasya Ikhsan | 5027251084 | Membuat mbg.html |
-| Raffa al azmi | 5027251079 | Membuat Kopdes.html |
-| Asfia Fahmisan | 5027251043 | Membuat index.html |
+| Muhammad Nadhif Pasya Ikhsan | 5027251084 | mbg.html |
+| Raffa al azmi | 5027251079 | Kopdes.html |
+| Asfia Fahmisan | 5027251043 | index.html |
 
 > **Departemen Teknologi Informasi**
 > Institut Teknologi Sepuluh Nopember (ITS)
