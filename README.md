@@ -1,5 +1,10 @@
 # 🇮🇩 Portfolio & Creative CV - Kelompok Prabowo
 
+<div align="center">
+  <img width="715" height="533" alt="image" src="https://github.com/user-attachments/assets/fdc5cf16-b2cc-4e7b-b5ce-03dc25b5fa9b" />
+  <br><br><br>
+</div>
+
 Tugas Praktikum Pemrograman Web Modul 1 2026. Proyek ini adalah sebuah website portofolio dan *Creative CV* mandiri yang dibangun dari awal (*native from scratch*) menggunakan HTML dan CSS murni tanpa *framework* tambahan.
 
 ## Akses
