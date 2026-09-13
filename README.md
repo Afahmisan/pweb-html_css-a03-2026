@@ -38,7 +38,6 @@ pweb-html_css-a03-2026/
 ##  Anggota Kelompok
 
 | Nama | NRP |
-| --- | --- |
 | Muhammad Nadhif Pasya Ikhsan | 5027251084 |
 | Raffa al azmi | 5027251079 |
 | Asfia Fahmisan | 5027251043 |
