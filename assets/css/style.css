@@ -407,6 +407,10 @@
     .image-wrapper img {
       filter: brightness(0.85);
     }
+
+    .site-footer{
+      text-align: center;
+    }
   }
 
   @media screen and (max-width: 600px) {
@@ -429,4 +433,21 @@
     margin-top: 20px;
     padding: 10px 20px;
     font-size: 1.1rem ;
+  }
+
+  .site-footer {
+      margin-top: 60px;
+      padding: 24px 0 24px 0;
+      border-top: 1px solid rgba(79, 58, 42, 0.2);
+      color: var(--primary-blue);
+      font-size: 0.95rem;
+      font-weight: 500;
+  }
+
+
+
+  .footer-members {
+      font-size: 0.85rem;
+      margin-top: 5px;
+      color: grey;
   }
